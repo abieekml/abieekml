@@ -1,21 +1,43 @@
-# 💫 About Me:
-📚 Mahasiswa aktif di jurusan Sistem Informasi<br>💡 Fokus pada pengembangan aplikasi berbasis web (Frontend & Backend)<br>🎨 Suka ngulik UI/UX Design dan tools seperti Figma<br>🚀 Aktif membangun portofolio dan belajar dari proyek nyata<br>💫 Gemar mengeksplorasi ide-ide baru & mewujudkannya dalam solusi digital<br>
+## Hi there! 👋
 
+I'm Abi Kamal, an undergraduate Information Systems student at the Islamic State University of Jakarta. I'm passionate about technology and software development, and I'm eager to learn and grow in the field.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white).![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abieekml&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abieekml&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abieekml&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abieekml&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently based in Jakarta, I'm a junior developer with a keen interest in building innovative solutions. I enjoy working on projects that challenge my skills and help me learn new technologies. My goal is to contribute to impactful software that improves lives.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abieekml&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Skills & Technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=abieekml&icon=0&color=0)](https://visitcount.itsvg.in)
+html,css,php,mysql,git,github,c,cpp,cloudflare,figma,js,vercel,postman,powershell,windows,py,vscode,netlify,instagram,linkedin
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Top Projects
+
+- [Profile-Website](https://github.com/abieekml/Profile-Website) - A personal website to showcase my portfolio. ⭐️ 1 | Language: HTML 
+- [Project-to-do-list](https://github.com/abieekml/Project-to-do-list) - A collaborative project management tool. ⭐️ 1 | Language: PHP 
+- [abieekml.github.io](https://github.com/abieekml/abieekml.github.io) - My personal blog and project showcase. ⭐️ 0 | Language: HTML 
+- [Tugas-matdis](https://github.com/abieekml/Tugas-matdis) - A project for university assignments. ⭐️ 0 | Language: Python
+
+## GitHub Stats
+
+👤 **Followers:** 7  
+🔗 **Following:** 7  
+📁 **Public Repositories:** 12  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abieekml&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed updates to [Profile-Website](https://github.com/abieekml/Profile-Website) on July 4, 2025.  
+- Updated [abieekml.github.io](https://github.com/abieekml/abieekml.github.io) with new content on July 4, 2025.  
+- Made changes to [Project-to-do-list](https://github.com/abieekml/Project-to-do-list) on June 30, 2025.
+
+## Latest Blog Posts
+
+Currently, I do not have blog posts available, but I am planning to share my learning journey and projects soon!
+
+## Connect with Me
+
+{"instagram":"https://instagram.com/abii.kamal"}
+
+## Certifications
+
+- [Memulai Pemrogaman dengan Python](https://www.dicoding.com/certificates/4EXG3EG9DZRL) - Dicoding, 2025
